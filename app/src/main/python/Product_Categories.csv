@@ -1,0 +1,67 @@
+SNo,Product Name,Category
+1,Pizza,Food
+2,Paneer,Food
+3,Burger,Food
+4,Cake,Food
+5,Kebabs,Food
+6,Waffles,Food
+7,Pasta,Food
+8,Chicken,Food
+9,Mutton,Food
+10,Momos,Food
+11,Indigo,Travel
+12,Spice Jet,Travel
+13,Air Asia,Travel
+14,Lufansa,Travel
+15,Emirates,Travel
+16,Rajdhani,Travel
+17,Shatabhdi,Travel
+18,Gareebrath,Travel
+19,Intracity,Travel
+20,S Kranti,Travel
+21,Inox,Entertainment
+22,Imax,Entertainment
+23,PVR,Entertainment
+24,Cinepolis,Entertainment
+25,Taj Mahal,Tourism
+26,Pyramids of Giza,Tourism
+27,City Palace,Tourism
+28,Great Wall of China,Tourism
+29,Petra,Tourism
+30,Colosseum,Tourism
+31,Adidas,Shopping
+32,Nike,Shopping
+33,Fila,Shopping
+34,Flying Machine,Shopping
+35,Gucci,Shopping
+36,Levis,Shopping
+37,Prada,Shopping
+38,Myntra,Shopping
+39,H&M,Shopping
+40,LifeStyle,Shopping
+41,Pharmacy,Medical
+42,Tablet,Medical
+43,Syrup,Medical
+44,Syringe,Medical
+45,Bandages,Medical
+46,Doctor,Medical
+47,Hospital,Medical
+48,Pads,Medical
+49,Pampers,Medical
+50,Diapers,Medical
+51,Petrol,Fuel
+52,Diesel,Fuel
+53,CNG,Fuel
+54,Bharat Petroleum,Fuel
+55,Hindustan Petroleum,Fuel
+57,Indian Petroleum,Fuel
+58,Indian Oil,Fuel
+59,Reliance,Fuel
+60,ESSAR,Fuel
+61,Craft,Stationery
+62,Paper,Stationery
+63,Pen,Stationery
+64,Copy,Stationery
+65,Book,Stationery
+66,Gift,Shopping
+67,Mug,Shopping
